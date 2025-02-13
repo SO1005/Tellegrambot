@@ -1,0 +1,21 @@
+# Python virtual muhitlarini e'tiborsiz qoldirish
+venv/
+env/
+
+# Kesh va kompilyatsiya qilingan fayllarni e'tiborsiz qoldirish
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log va vaqtinchalik fayllarni e'tiborsiz qoldirish
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Maxfiy ma’lumotlarni o‘z ichiga olgan fayllar
+*.env
+config.json
+.env
