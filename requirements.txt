@@ -1,3 +1,6 @@
-git add requirements.txt
-git commit -m "Add requirements.txt"
-git push origin main
+aiogram==2.25.1
+python-dotenv
+requests
+pandas
+asyncpg
+psycopg2
